@@ -44,9 +44,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnavi-670/Vaishnavi-670/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaishnavi-670/Vaishnavi-670/pacman/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Vaishnavi-670/Vaishnavi-670/pacman/pacman-contribution-graph.svg">
-</picture>
+
 
